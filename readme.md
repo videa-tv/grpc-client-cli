@@ -1,3 +1,5 @@
+# This repository is no longer maintained, please use [vadimi/grpc-client-cli](https://github.com/vadimi/grpc-client-cli)
+
 # Description
 `grpc-client-cli` is a generic `gRPC` command line client. You can call any `gRPC` service that exposes reflection endpoint.
 
